@@ -1,0 +1,16 @@
+jobdesc.txt
+zenodo-todo.txt
+data/direct_loss_aggregated_output_28320.csv
+data/SHELDUS_Data_Documentation.pdf
+.ipynb_checkpoints/
+__pycache__/
+chapter_1/*.png
+chapter_1/*.pdf
+chapter_1/*.csv
+chapter_2/*.png
+chapter_2/*.pdf
+chapter_2/*.csv
+chapter_3/*.png
+chapter_3/*.pdf
+chapter_3/*.csv
+.venv/
