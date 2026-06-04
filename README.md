@@ -90,7 +90,7 @@ We recommend using [uv](https://github.com/astral-sh/uv), a fast Python package 
    You can install `uv` by running the command below for your operating system, or refer to the [uv installation guide](https://docs.astral.sh/uv/getting-started/installation/) for other installation options.
    - **macOS & Linux**:
      ```bash
-     curl -LsSf https://astral-sh.uv/install.sh
+     curl -LsSf https://astral-sh.uv/install.sh | sh
      ```
    - **Windows (PowerShell)**:
      ```powershell
