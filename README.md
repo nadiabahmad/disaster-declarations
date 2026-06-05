@@ -5,9 +5,9 @@ Nadia B. Ahmad | Yale School of the Environment | 2026
 
 ## Overview
 Replication code and data documentation for a three-chapter empirical 
-dissertation examining recognition inequity in federal disaster 
+dissertation examining recognition inequity in U.S. federal disaster 
 declarations under the Robert T. Stafford Disaster Relief and 
-Emergency Assistance Act.
+Emergency Assistance Act, 1988.
 
 ## Chapters
 
