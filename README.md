@@ -106,7 +106,7 @@ We recommend using [uv](https://github.com/astral-sh/uv), a fast Python package 
    ```bash
    uv run jupyter lab
    ```
-   *(Alternatively, if you prefer traditional Jupyter Notebooks, run `uv run jupyter notebook`)*
+   *(Alternatively, if you prefer a traditional Jupyter Notebooks, run `uv run jupyter notebook`)*
 
 ### Running in Google Colab
 You can run any of the notebooks directly in Google Colab without setting up a local environment.
@@ -126,4 +126,4 @@ You can run any of the notebooks directly in Google Colab without setting up a l
    - Upload your licensed SHELDUS dataset (`direct_loss_aggregated_output_28320.csv` or similar) when prompted.
 
 ## Citation
-Ahmad, Nadia B. (2026). Before the Aid: Federal Disaster Declarations,  State Policy, and Governance Failures. Doctoral Dissertation,  Yale School of the Environment.
+Ahmad, Nadia B. (2026). Before the Aid: Federal Disaster Declarations,  State Policy, and Governance Failures — Replication code and data. Doctoral Dissertation,  Yale School of the Environment.
